@@ -1,0 +1,174 @@
+@import url(carousel.css);
+body{
+	background:#E5E5E5;
+}
+a{
+	color:#000000;
+}
+
+a:hover{
+	color:#0099FF;
+}
+
+.share a{
+	color:#0099FF;
+	padding:5px;
+	text-decoration:none;
+}
+
+.share a:hover{
+	color:#fff;
+	background-color:#0099FF;
+}
+.container{
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	background:#fff;
+	height:100%;
+}
+.bds-hr{
+	list-style:square;
+}
+.logo-header{
+	margin:80px 0px 10px 10px;
+}
+
+.img-right{
+	float:right;
+}
+#content-center{;
+	width:510px;
+	float:left;
+	line-height:18px;
+}
+.thumb-produk{
+	margin-bottom:10px; padding:5px; width:162px; float:left;color:#000;
+}
+
+.thumb-produk-small{
+	margin-bottom:10px; padding:5px; width:150px; float:left;color:#000;
+}
+.thumb-produk:hover{					
+	box-shadow:  0px 3px 15px #ccc;
+	-webkit-box-shadow: 0px 3px 15px #ccc;
+}
+
+.thumb-produk-small:hover{					
+	box-shadow:  0px 3px 15px #ccc;
+	-webkit-box-shadow: 0px 3px 15px #ccc;
+}
+
+.footer{
+	border-top:1px solid #ccc;
+	box-shadow: 0px -5px 20px #ccc;
+	-webkit-box-shadow: 0px -5px 20px #ccc;
+	height:auto;
+}
+
+.metode, .detail{
+	float:left;
+	margin:20px 0px 40px 25px;
+	border:1px solid #ccc;
+	padding:20px;
+}
+
+.metode{
+	margin-top:0px;
+	height:424px;
+}
+.detker{
+	border:1px solid #ccc;
+	padding:20px;
+	width:95%;
+	margin-left:25px;
+}
+
+.main_admin{
+	height:385px;
+	background:url(../img/administrator-icon.png) no-repeat 750px 110px;
+}
+
+.beli{
+	width:115px;
+	margin-left:270px;
+}
+
+.bg-adminlogin{
+	background:url(../img/gadget.png) no-repeat;
+}
+
+#sub-rekening{
+	float:left;
+	margin-right:5px;
+}
+
+.bingkai{
+	border:3px solid #264A5F;width:300px;padding:10px;
+}
+.jd-bingkai{
+	background-color:#F2F2F2;color:#264A5F;border-bottom:1px solid #264A5F;border-left:3px solid #264A5F
+}
+.form-signin-admin {
+	max-width: 330px;
+	padding: 20px;
+	margin: 0 auto;
+	margin-top:150px;
+	background-color:#fff;
+	box-shadow: 0px 0px 50px #ccc;
+	-webkit-box-shadow: 0px 0px 50px #ccc;
+}
+
+.form-signin {
+  width: 230px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-admin  .form-signin-heading,
+.form-signin .form-signin-admin  .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .form-signin-admin  .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 16px;
+}
+
+.form-signin-admin  .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-signin-admin  .form-control:focus {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin-admin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin-admin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
