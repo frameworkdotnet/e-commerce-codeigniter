@@ -1,1 +1,1 @@
-# codeigniter-e-commerce
+# E-Commerce CodeIgniter
